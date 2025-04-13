@@ -3,7 +3,7 @@ import sqlite3
 from telebot import types
 from telegram_bot_calendar import DetailedTelegramCalendar, LSTEP
 
-bot = telebot.TeleBot('7062886657:AAGE55qWHJ4bIPrcoBFLpp_PwoEvx6XM6nk')
+bot = telebot.TeleBot('')
 
 name = None
 number = None
